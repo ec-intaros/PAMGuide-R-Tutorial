@@ -37,7 +37,7 @@ Espen Storheim (NERSC)
 This work is licensed under a Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/
 
 
-PAMGuide is licensed by the original creator under a Creative Commons Attribution 4.0 Internation License. https://sourceforge.net/directory/license:ccal/
+PAMGuide is licensed by the original creator under a Creative Commons Attribution License. https://sourceforge.net/directory/license:ccal/
 
 ## Acknowledgements
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 727890.
