@@ -2,7 +2,7 @@
 Tool for analysis of passive acoustic data.
 
 ## Introduction
-This tool is a slightly modified version of PAMGuide for R, originally created by Nathan Merchant [1]. The primary modifications that have been made are 1) adding support for vector input, and 2) adding support for Jupyter notebook. The original version of PAMGuide only supports WAV-files (audio files) as input. However, passive acoustic data are often stored in NetCDF or other data files (e.g. MATLAB files). Converting this data into audio files increases processing time and can also lead to loss of data.
+This tool is a slightly modified version of PAMGuide for the statistical programming language *R*, originally created by Nathan Merchant [1]. The primary modifications that have been made are 1) adding support for vector input, and 2) adding support for Jupyter notebook. The original version of PAMGuide only supports WAV-files (audio files) as input. However, passive acoustic data are often stored in NetCDF or other data files (e.g. MATLAB files). These sample values can now directly be processed, rather than converting this data into audio files. This reduces processing time and reduces the risk for loss of data.
 
 A Jupyter notebook is included here to illustrate how to use the tool. It also shows how to access data available on a Thredds server without downloading the data manually.
 
@@ -34,8 +34,12 @@ https://besjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.111
 Espen Storheim (NERSC)
 
 ## Licenses
+This work is licensed under a Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/
+
+
+PAMGuide is licensed by the original creator under a Creative Commons Attribution 4.0 Internation License. https://sourceforge.net/directory/license:ccal/
 
 ## Acknowledgements
-This work has been funded by the H2020 project *Integrated Arctic Observation System* (INTAROS). www.intaros.eu
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 727890.
 
 
